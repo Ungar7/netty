@@ -1,5 +1,9 @@
 test merge
+<<<<<<< HEAD
 sdsd
+=======
+sdffgggg
+>>>>>>> test
 # Netty Project
 
 Netty is an asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
